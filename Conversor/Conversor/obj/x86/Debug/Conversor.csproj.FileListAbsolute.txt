@@ -1,0 +1,6 @@
+/home/gabriel/Projects/Conversor/Conversor/obj/x86/Debug/Conversor.csproj.AssemblyReference.cache
+/home/gabriel/Projects/Conversor/Conversor/obj/x86/Debug/Conversor.csproj.CoreCompileInputs.cache
+/home/gabriel/Projects/Conversor/Conversor/bin/Debug/Conversor.exe
+/home/gabriel/Projects/Conversor/Conversor/bin/Debug/Conversor.pdb
+/home/gabriel/Projects/Conversor/Conversor/obj/x86/Debug/Conversor.exe
+/home/gabriel/Projects/Conversor/Conversor/obj/x86/Debug/Conversor.pdb
